@@ -5,7 +5,7 @@ from PyQt5.uic import loadUi
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 import matplotlib.pyplot as plt
-
+""""""
 l = 0
 h = 0
 a = 0
